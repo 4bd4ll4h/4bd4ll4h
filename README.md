@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdallah</h1>
-<h3 align="center">UX designer and android developer</h3>
+<h3 align="center">android developer |backend devloper |UX designer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4bd4ll4h" alt="4bd4ll4h" /></a> </p>
 
