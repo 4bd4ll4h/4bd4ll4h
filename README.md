@@ -1,14 +1,52 @@
-<h1 align="center">Hi 👋, I'm Abdallah</h1>
-<h3 align="center">android developer | backend devloper | UX designer</h3>
+<h1 align="center">Hi there! 👋 I'm Abdallah 👋 مرحباَ</h1>
+<h3 align="center">Android Developer | Backend Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4bd4ll4h" alt="4bd4ll4h" /></a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-Kotlin%20&%20Java-green" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20&%20TypeScript-success" />
+  <img src="https://img.shields.io/badge/Database-SQLite%20&%20MySQL-informational" />
+  <img src="https://img.shields.io/badge/UX%20Design-Figma-orange" />
+  <img src="https://img.shields.io/badge/Other-Python%20(Flask, django),%20Java%20(Spring),%20GraphQL-important" />
+  <img src="https://img.shields.io/badge/Notion-Workspace%20Extraordinaire-informational" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control%20Magician-red" />
+  <img src="https://img.shields.io/badge/VSCode-My%20Coding%20Haven-blue" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-For%20Serious%20Java%20Business-9cf" />
+  <img src="https://img.shields.io/badge/Docker-Container%20Whiz-ff69b4" />
+</p>
+
+
+## 🚀 About Me
+
+I'm a three years passionate software developer with a `background in UX design`. My interests lie in building cool, user-friendly, and scalable applications while constantly exploring and learning new technologies.
+
+## 💻 Technologies I Use
+
+**Core:**
+- Kotlin & Java for Android development
+- Node.js & TypeScript for backend development
+- SQLite & MySQL for databases
+- Figma for UX design
+
+**Others:**
+- Python (Flask) for problem-solving and backend
+- Java (Spring) for backend
+- Notion, Git, VSCode, IntelliJ, and Docker
+- GraphQL
+
+## 🚀 Projects
+
+-  **[EESE HACKATHON 2022 🔗](https://github.com/4bd4ll4h/Classroom-Scheduling-Team-Se7en)**  - developing "Classroom Scheduling," a web app utilizing a genetic algorithm for optimal university timetables.
+- **[NavTube Android App - Beta 🔗](https://github.com/4bd4ll4h/navTube)** - Discover and organize new content outside your circle.
+- **[Disciplined Android App 🔗](https://github.com/4bd4ll4h/Disciplined)**  - Productivity app for organizing tasks and to-do lists.
+- **[TDES (Python Package on PyPI) 🔗](https://github.com/4bd4ll4h/tdes)** - Open-source CLI app for file encryption and decryption.
+- **[FMSI Bot - Telegram Bot 🔗](https://github.com/4bd4ll4h/fmsi-bot)**  - Telegram Bot for effective studying among students and faculty.
+- **[Poetry Library - Java Web API 🔗](https://github.com/4bd4ll4h/poetryLibrary)** - Open source web API providing access to over 1.6 million bars of Arabic poetry.
+- **[Android COVID-19 Tracker 🔗](https://github.com/4bd4ll4h/covid19-statistics-android-app)** - Android app displaying statistical information about COVID-19 cases worldwide.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/3bd4ll4h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3bd4ll4h" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/4bd4ll4h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="4bd4ll4h" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/4bd4ll4h/" target="_blank">
+    <img src="https://img.shields.io/linkedin/4bd4ll4h?style=social" alt="linkedin">
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
