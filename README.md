@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a three years passionate software developer with a `background in UX design`. My interests lie in building cool, user-friendly, and scalable applications while constantly exploring and learning new technologies.
+I'm a six years passionate software developer with a `background in UX design`. My interests lie in building cool, user-friendly, and scalable applications while constantly exploring and learning new technologies.
 
 ## 💻 Technologies I Use
 
